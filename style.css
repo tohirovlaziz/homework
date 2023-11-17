@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: left;
+    max-width: 1440px;
+    max-height: 4800px;
+    margin: auto;
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+.container00{
+    display: flex;
+}
+.box00 img{
+    width: 522px;
+    height: 522px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.container2{
+    margin-left: 100px;
+}
+header{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+
+ul{
+    margin-left: 550px;
+    display: flex;
+    gap: 70px;
+    list-style: none;
+    justify-content: space-around;
+}
+.box1{
+    color: red;
+    margin-top: 216px;
+}
+
+.box1 h2 {
+    font-size: 30px;
+}
+.box1 h1{
+    margin-top: 20px;
+    color: rgb(46, 45, 45);
+    font-size: 50px;
+}
+.box1 p {
+    margin-top: 20px;
+    color: rgb(88, 87, 87);
+}
+
+.box1 button{
+    margin-top: 50px;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(247, 146, 163);
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.box2{
+    text-align: center;
+}
+.box2 h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.box2 p {
+    color: rgb(101, 101, 102);
+}
+.box3{
+    background-color: rgb(250, 126, 215);
+    border: 1px solid rgb(250, 126, 215);
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+.box3 h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.box3 p{
+    margin-bottom: 10px;
+}
+.container4{
+    display: flex;
+    margin-top: 200px;
+}
+.box4{
+    display: flex;
+}
+.box5{
+    margin-left: 70px;
+}
+.box5 h1 {
+    color: rgb(255, 126, 147);
+}
+.box5 h2{
+    color: rgb(55, 54, 54);
+    margin-top: 20px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.box5 p{
+    font-size: 20px;
+    color: rgb(104, 103, 103); 
+    margin-bottom: 50px;
+}
+.box5 button {
+    padding: 15px;
+    width: 200px;
+    color: white;
+    background-color: rgb(250, 138, 157);
+    border-radius: 5px;
+}
+.container5{
+    margin-top: 200px;
+    display: flex;
+}
+.box6{
+    margin-top: 80px;
+}
+.box6 h1{
+    color: rgb(255, 126, 147);
+}
+.box6 h2 {
+    margin-top: 20px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: rgb(54, 53, 53);
+}
+.box6 p{
+    color: rgb(104, 103, 103);
+}
+.box6 button{
+    margin-top: 55px;
+    padding: 15px;
+    width: 200px;
+    color: white;
+    background-color: rgb(250, 138, 157);
+    border-radius: 5px;
+}
+.box7 img {
+    margin-left: 75px;
+}
+.container6{
+    margin-top: 200px;
+    display: flex;
+}
+.box8 img {
+    width: 310px;
+    height: 305px;
+    border-radius: 5px;
+}
+.box9 {
+    margin-left: 135px;
+}
+.box9 h1 {
+    color: rgb(255, 126, 147);
+}
+.box9 h2 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(54, 53, 53);
+}
+.box9 p{
+    color: rgb(104, 103, 103);
+}
+.box9 h3 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgb(54, 53, 53);
+}
+.box9 h4{
+    color: rgb(74, 72, 72);
+}
+.box10{
+      display: flex;
+      margin-top: 200px;
+      gap: 90px;
+      align-items: center;
+}
+.container7{
+    display: flex;
+     margin-top: 100px;
+}
+.box12{
+    margin-left: 165px;
+}
+.box12 h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    color: rgb(74, 72, 72);
+    margin-bottom: 20px;
+}
+.box12 p{
+    text-align: center;
+    color: rgb(104, 103, 103);
+}
+.box12 button{
+    margin-top: 55px;
+    padding: 15px;
+    width: 200px;
+    color: white;
+    background-color: rgb(250, 138, 157);
+    border-radius: 5px;
+    margin-left: 350px;
+}
+.container8 {
+    display: flex;
+    margin-top: 200px;
+}
+.box13 h1 {
+    margin-bottom: 20px;
+}
+.container9{
+    display: flex;
+    margin-left: 200px;
+}
+.box14 h1{
+    margin-bottom: 35px; 
+}
+.box14 h2{
+    color: rgb(52, 51, 51);
+}
+.box15{
+    margin-left: 150px;
+}
+.box15 h1{
+    margin-bottom: 35px; 
+}
+.box15 h2{
+    color: rgb(52, 51, 51);
+}
+.box16{
+    margin-left: 150px;
+}
+.box16 h1{
+    margin-bottom: 35px; 
+}
+.box16 h2{
+    color: rgb(52, 51, 51);
+}
+.header2{
+    background-color: rgb(250, 102, 126);
+    height: 50px;
+    color: aliceblue;
+}
